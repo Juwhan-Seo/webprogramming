@@ -1,0 +1,11 @@
+h1{font-family: 'Dongle', cursive;}
+.fontetest1{color:rgb(42,12,165)}
+.fontetest2{direction: rtl;}
+.fontetest3{letter-spacing: -0.1ch;}
+.fontetest4{line-height: 4ch;}
+.fontetest5{text-align: center;}
+.fontetest6{text-decoration: underline; text-decoration-color: aqua;}
+.fontetest4{line-height: 8ch;}
+.fontetest7{text-shadow: 3px 3px 0 rgb(42,12,165);}
+.fontetest8{text-shadow: 1px 1px 10px rgb(40, 175, 85);}
+.fontetest9{}
